@@ -23,4 +23,3 @@ I tried uploading the "original" and "cleaned" excel files, but they were too bi
 ![U S  Covid Stats-4](https://user-images.githubusercontent.com/94875597/172693234-7dfe9330-96b7-4269-8c11-4ed1cfb5657d.png)
 
 
-![U S  Covid Stats-1](https://user-images.githubusercontent.com/94875597/172696933-c687771d-b4f8-4b18-a9fc-defb2bede461.jpg)
