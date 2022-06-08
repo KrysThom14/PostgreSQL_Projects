@@ -6,6 +6,7 @@ I had attached both the original and cleaned csv files so you can see how much c
 
 Apologies for the blurry images. If anyone knows how to fix it, please let me know. Thanks.
 
+
 Just for reference, here is how the rating system works on Steam:
 
 ![Steam_Game_Data-1](https://user-images.githubusercontent.com/94875597/172715246-a575639a-24f9-4dd8-9f9e-d4e28534d5ab.png)
