@@ -2,6 +2,8 @@
 
 I tried uploading the "original" and "cleaned" excel files, but they were too big (1 million+ rows). I made minor changes to the table; mainly just changing some of the column names. The table itself was already pretty clean as is.
 
+Sorry for the images being blurry. If anyone knows how to fix it, please let me know.
+
 ## Sample Results From Queries:
 
 ### Quick View of Table
